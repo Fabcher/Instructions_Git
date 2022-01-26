@@ -1,3 +1,5 @@
 This is the info file
 
 Test05
+
+Test 06: Changing default brainch to main
